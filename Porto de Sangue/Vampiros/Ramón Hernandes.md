@@ -2,7 +2,7 @@
 Clã: Ravnos
 ---
 #NPC 
-![[|360]]
+![[Ramón.png|360]]
 
 >"frase para resumir personalidade"
 
