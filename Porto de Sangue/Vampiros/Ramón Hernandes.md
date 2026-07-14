@@ -2,9 +2,9 @@
 Clã: Ravnos
 ---
 #NPC 
-![[Ramón.png|360]]
+![[Ramon.png|360]]
 
->"frase para resumir personalidade"
+>"¡Que se fueda!"
 
 Alguns membros passam dificuldades em se locomover pelas ruas. Seja por questões das ruas de hoje serem bastante labirínticas ou por não terem tempo de sobra. Caso não confiem em usar transporte conduzido por mortais – temos o Ramone.
 
