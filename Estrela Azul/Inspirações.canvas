@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"54489ab0ebcf6133","x":-440,"y":160,"width":240,"height":140,"type":"text","text":"**Disco Eysium** em:\nTemáticas\nFalta de Combate\ntribuições fora do padrão"},
+		{"id":"47c77a4a1edaf5be","type":"text","text":"**Lancer** em:\nRegras e mecânicas de Mecha","x":-160,"y":160,"width":240,"height":140},
+		{"id":"250ffcb7dc84ef7b","type":"text","text":"**Vampiro a máscara** em:\nSistema Storyteller","x":-440,"y":360,"width":240,"height":140},
+		{"id":"116d435fbb7d7944","type":"text","text":"**Assimilação** em:\nPós-apocalipse","x":-160,"y":360,"width":240,"height":140}
+	],
+	"edges":[]
+}

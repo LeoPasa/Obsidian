@@ -2,7 +2,7 @@
 Clã: Ventrue
 ---
 #NPC 
-![[|360]]
+![[Leonardo de Alencar.png|360]]
 
 >"Que coisa mais estúpida essa mentalidade maquiavélica. Por que eu deveria justificar meus meios?"
 
