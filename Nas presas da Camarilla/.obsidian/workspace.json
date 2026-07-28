@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "db5d9fb400dfdaa3",
+    "type": "split",
+    "children": [
+      {
+        "id": "addb3da209668265",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40520aaf688742a8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Estrutura.canvas",
+                "viewState": {
+                  "x": -87.29016407863288,
+                  "y": 197.46762775464626,
+                  "zoom": -0.6332695043087004
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Estrutura"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a73ccf9c4176346",
+    "type": "split",
+    "children": [
+      {
+        "id": "910bb522c1f7d603",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "546944af3a86e3f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "bfd205df584fff24",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "c09c1fc0b276f7ee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 201.5
+  },
+  "right": {
+    "id": "4ae8d9a38b17e9ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c53c6d92d292ac9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a941e2fd1c3596a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Estrutura.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Estrutura"
+            }
+          },
+          {
+            "id": "330ea8540ca97adb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Estrutura.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Estrutura"
+            }
+          },
+          {
+            "id": "609bf282cdcee432",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "53c31ae2a3253bf8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "d48ac8a181a19746",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Estrutura.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Estrutura"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "40520aaf688742a8",
+  "lastOpenFiles": [
+    "Cola dos contras de cada personagem.md",
+    "Estrutura.canvas",
+    "In.md",
+    "Sem título.base"
+  ]
+}
