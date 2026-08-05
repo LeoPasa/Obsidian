@@ -28,14 +28,17 @@
             "id": "d0fe7c165d69ae72",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Criação de Personagem.md",
-                "mode": "source",
-                "source": false
+                "file": "Brainstorm.canvas",
+                "viewState": {
+                  "x": -35,
+                  "y": -76.32109375000002,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Criação de Personagem"
+              "icon": "lucide-layout-dashboard",
+              "title": "Brainstorm"
             }
           }
         ],
@@ -59,7 +62,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -203,8 +208,8 @@
   },
   "active": "d0fe7c165d69ae72",
   "lastOpenFiles": [
-    "Brainstorm.canvas",
     "Criação de Personagem.md",
+    "Brainstorm.canvas",
     "Sobre Estrela Azul.md",
     "Inspirações.canvas",
     "desktop.ini"
