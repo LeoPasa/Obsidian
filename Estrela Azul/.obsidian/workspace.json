@@ -28,17 +28,14 @@
             "id": "d0fe7c165d69ae72",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Brainstorm.canvas",
-                "viewState": {
-                  "x": -35,
-                  "y": -76.32109375000002,
-                  "zoom": 0
-                }
+                "file": "Sobre Estrela Azul.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Brainstorm"
+              "icon": "lucide-file",
+              "title": "Sobre Estrela Azul"
             }
           }
         ],
@@ -208,8 +205,8 @@
   },
   "active": "d0fe7c165d69ae72",
   "lastOpenFiles": [
-    "Criação de Personagem.md",
     "Brainstorm.canvas",
+    "Criação de Personagem.md",
     "Sobre Estrela Azul.md",
     "Inspirações.canvas",
     "desktop.ini"

@@ -15,9 +15,9 @@
               "state": {
                 "file": "Estrutura.canvas",
                 "viewState": {
-                  "x": -87.29016407863288,
-                  "y": 197.46762775464626,
-                  "zoom": -0.6332695043087004
+                  "x": -301.6367833165491,
+                  "y": 525.6866289789433,
+                  "zoom": -1.6561629066367933
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -44,7 +44,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
