@@ -1,12 +1,17 @@
 {
 	"nodes":[
 		{"id":"b750c898b4e55463","type":"text","text":"# Introdução\nO Cainita é um ser urbano. E dentro de sua estrutura social, existem cidades, territórios de maior destaque na Camarilla. E nos Estados (Estragos) Unidos, a chamada \"Joia da Coroa americana\" é Chicago. Uma das poucas que a Camarilla mantém sua forte dominância.\nPorém, neste caso, vocês não são da Camarilla. São Anarquistas - repudiam tal organização.  Vocês não se conhecem, podem até terem se visto na noite anterior, na Velvet Club, cada um por motivos em particular.  Nesta noite, todos vocês foram convocados pela Camarilla por... algum motivo. Qual poderia ser?","x":-360,"y":-300,"width":820,"height":240,"color":"6"},
-		{"id":"7cc2f6526f3a7c1a","type":"text","text":"# Escritório\n","x":-1440,"y":0,"width":820,"height":360},
 		{"id":"0b79f5acbaea3cb3","type":"text","text":"# Museu\nTodos os jogadores se encontrarão simultaneamente, ou a critério dos jogadores. Será dado um pequeno período para os jogadores se interagirem com outros Membros da Camarilla.\n - Caso se interagirem com o Xerife, ele cumprimentará com um abraço e colocará um orbe de sangue no bolso da personagem.\nQuando o Príncipe aparecer, será enfim contextualizado o que aconteceu na noite anterior, Senescal foi encontrado em Torpor (todo destroçado) junto de sua carniçal morta também de forma muito violenta. E por testemunhas e imagens de câmeras, vistos, de outros vampiros, os outros jogadores. Pelas tradições da Camarilla, a pena capital é a regra para tal situação. Porém, devido às peculiaridades do caso. Foi decidido colocar os culpados para investigarem e terem a chance de se inocentarem.  Sobre a tutela da Sabuga de Sangue (algo assim).","x":-360,"y":0,"width":820,"height":360},
-		{"id":"e6d7447d85cb7d37","type":"text","text":"# Refúgio\n","x":760,"y":0,"width":820,"height":360},
-		{"id":"b762b85041b27e46","type":"text","text":"# Fábrica abandonada\n","x":-360,"y":1240,"width":820,"height":360}
+		{"id":"b762b85041b27e46","type":"text","text":"# Fábrica abandonada\n","x":-360,"y":960,"width":820,"height":360},
+		{"id":"7cc2f6526f3a7c1a","type":"text","text":"# Escritório\nNo escritório, temos:\n- Uma escrivaninha de design antigo, com seis gavetas, três cada lado(A-B, 1-3). Com uma série de ações para ganhar uma recompensa.\n\t- ","x":-1400,"y":480,"width":820,"height":360},
+		{"id":"fad04be0b087b5ef","type":"text","text":"# Boate\n","x":-360,"y":480,"width":820,"height":360},
+		{"id":"e6d7447d85cb7d37","type":"text","text":"# Refúgio\n","x":720,"y":480,"width":820,"height":360}
 	],
 	"edges":[
-		{"id":"a12542c600d03ea3","fromNode":"b750c898b4e55463","fromSide":"bottom","toNode":"0b79f5acbaea3cb3","toSide":"top"}
+		{"id":"a12542c600d03ea3","fromNode":"b750c898b4e55463","fromSide":"bottom","toNode":"0b79f5acbaea3cb3","toSide":"top"},
+		{"id":"1c91ca623f3e3362","fromNode":"0b79f5acbaea3cb3","fromSide":"bottom","toNode":"fad04be0b087b5ef","toSide":"top"},
+		{"id":"c86d66ee027d9e10","fromNode":"0b79f5acbaea3cb3","fromSide":"bottom","toNode":"7cc2f6526f3a7c1a","toSide":"top"},
+		{"id":"3b93a38a7273a2a6","fromNode":"0b79f5acbaea3cb3","fromSide":"bottom","toNode":"e6d7447d85cb7d37","toSide":"top"},
+		{"id":"34956074ec2a210d","fromNode":"e6d7447d85cb7d37","fromSide":"bottom","toNode":"b762b85041b27e46","toSide":"right"}
 	]
 }
