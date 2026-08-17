@@ -12,5 +12,4 @@ Bem... ate agora, só
 - Abrir e dar "play" na cena Assets/Scenes/SampleScene (no fim, n ta no SampleScene, é só no Assets/Scenes)
 - Para funcionar efetivamente, é necessário:
 	-  API keys e colocar dentro de um .json (ride dentro de config. É possivel acessar dentro da Unity)
-# Problema
-É justamente o API key o problema. VHLab não quer ferramentes de IA externa.
+	- Ou uso de LLM local.

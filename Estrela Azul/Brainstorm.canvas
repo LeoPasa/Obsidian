@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"48eef1eb097a9a56","type":"text","text":"Combates simples resultarem apenas em perda de vida e conclusão a critério dos jogadores","x":-300,"y":-200,"width":250,"height":120},
 		{"id":"25e0aca6293bb745","type":"text","text":"Ter gasto de ponto ao invés de rolagem","x":20,"y":-170,"width":250,"height":60},
-		{"id":"63add0af86bd886a","type":"text","text":"Vontade\nRecurso para usar Bestas de Aço e rerrolar dados, uma trilha de 11 quadrados com 2 extremos (Colapso e Sobrecarga) ","x":-380,"y":-20,"width":250,"height":160}
+		{"id":"63add0af86bd886a","type":"text","text":"Vontade\nRecurso para usar Bestas de Aço e rerrolar dados, uma trilha de 6 quadrados com 2 extremos (Colapso e Sobrecarga) ","x":-380,"y":-20,"width":250,"height":160}
 	],
 	"edges":[]
 }
