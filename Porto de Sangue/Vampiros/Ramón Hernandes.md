@@ -4,7 +4,7 @@ Clã: Ravnos
 #NPC 
 ![[Ramon.png|360]]
 
->"¡Que se fueda!"
+>"Nunca mas... nunca mais."
 
 Alguns membros passam dificuldades em se locomover pelas ruas. Seja por questões das ruas de hoje serem bastante labirínticas ou por não terem tempo de sobra. Caso não confiem em usar transporte conduzido por mortais – temos o Ramone.
 
