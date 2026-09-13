@@ -14,4 +14,4 @@ Foi um membro da Camarilla de certo destaque ao longo de dois séculos, mas foi 
 ## Sua relação com o mundo
 Para ele, pessoas são extremamente desinteressantes para ter uma conversa.  Humanos comuns são para ele seres que de duas uma: ou é possível os usar para tirar vantagem, ou são meros perrengues que precisa lidar.
 ## Sua relação com seus semelhantes
-O punho de ferro não tem preferências. Membros de sua corte podem muito bem ser companheiros, mas sua jornada nesse baile de máscaras o ensinou bem que "amizade" só os humanos possuem esse privilégio de terem. Anarquistas são para ele apenas mais um grupo de jogadores para lidar, mas menos atento às regras do jogo. Resultando na redução drástica
+O punho de ferro não tem preferências. Membros de sua corte podem muito bem ser companheiros, mas sua jornada nesse baile de máscaras o ensinou bem que "amizade" só os humanos possuem esse privilégio de terem. Anarquistas são para ele apenas mais um grupo de jogadores para lidar, mas menos atento às regras do jogo. Resultando na redução drástica da populaćão cainita.

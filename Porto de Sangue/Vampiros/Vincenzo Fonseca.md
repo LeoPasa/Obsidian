@@ -7,7 +7,7 @@ Clã: Toreador
 >"Olha, meninas... eu poderia aumentar o salário  de vocês. Mas ela não está aqui."
 
 Uma lenda urbana entre mortais e lambedores de sangue. Muitos falam da Dona Débora, proprietária do prostíbulo [[Caverna Rubra]] sem saberem do seu rosto. Apenas sabendo de sua influencia na cidade gracas ao poder simples de mulheres à sua disposição para obter informações vazadas por qualquer mortal infiel. E é sagaz com o uso de suas peças.
-## Nos tempos mortais (-1960????)
+## Nos tempos mortais (1942-1960)
 Sua infância foi opressora com seus sonhos artísticos. Seus pais não tinham muitas condições e exigiam dele seguir uma carreira garantida. A vida seguiu seu fluxo, teve um emprego estável, se casou com [[Catarina]] e praticou artes práticas como hobby. 
 Em determinado momento. Levou suas artes para exibição e chamou a atenção de uma senhora, misteriosa, e rica. Com outras exibições (todas escondidas de sua mulher), a tal mulher decidiu que seria sua mecenas. Assim, trocou de emprego sem sua mulher saber. O sentimentalismo de Vincenzo fazia a mulher olhar com outros olhos e, ao longo dos anos a relação, entre ele e essa senhora ficaram cada vez mais íntima, porém sem a parte da sexualidade. Em determinado ponto, essa senhora apenas olhou nos olhos dele e disse:
 "Você precisa durar tanto quanto sua arte".
