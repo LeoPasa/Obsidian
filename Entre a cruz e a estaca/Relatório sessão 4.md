@@ -1,0 +1,5 @@
+- Receberam as boas vindas do Príncipe.
+- Receberam o mapa de Harold.
+- Desacordaram um padre x2 seguidas.
+- Quebraram a máscara na frente de uma crianca.
+- Botaram as caras para o Culto de Minerva.
